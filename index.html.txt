@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VC is easy</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <h1>Why VC is easy?</h1>
+  <h2>AI codes for you</h2>
+
+  <p>AI does a lot — creates code, debugs, and speeds up work.</p>
+
+  <input id="userInput" type="text" placeholder="Type your answer here" />
+
+  <button id="agreeBtn" disabled>Do you agree?</button>
+
+  <p id="response" class="hidden"></p>
+
+  <br><br>
+
+  <a href="https://www.google.com">Visit Google</a>
+</body>
+</html>
